@@ -1,0 +1,1975 @@
+ORIGIN_STATE_NM,DEST_STATE_NM,PASSENGERS
+Alabama,Alabama,182.0
+Alabama,Arizona,278.0
+Alabama,Arkansas,7.0
+Alabama,California,92.0
+Alabama,Colorado,1125.0
+Alabama,Connecticut,4.0
+Alabama,Florida,4404.0
+Alabama,Georgia,18439.0
+Alabama,Illinois,3286.0
+Alabama,Indiana,1.0
+Alabama,Iowa,2.0
+Alabama,Kansas,2.0
+Alabama,Kentucky,13.0
+Alabama,Louisiana,1097.0
+Alabama,Maine,2.0
+Alabama,Maryland,2096.0
+Alabama,Massachusetts,6.0
+Alabama,Michigan,1541.0
+Alabama,Minnesota,445.0
+Alabama,Mississippi,57.0
+Alabama,Missouri,915.0
+Alabama,Nevada,1009.0
+Alabama,New Jersey,11.0
+Alabama,New Mexico,2.0
+Alabama,New York,506.0
+Alabama,North Carolina,7317.0
+Alabama,North Dakota,1.0
+Alabama,Ohio,26.0
+Alabama,Oklahoma,5.0
+Alabama,Pennsylvania,299.0
+Alabama,Rhode Island,3.0
+Alabama,South Carolina,19.0
+Alabama,Tennessee,1250.0
+Alabama,Texas,12548.0
+Alabama,Utah,1.0
+Alabama,Vermont,1.0
+Alabama,Virginia,2378.0
+Alabama,Washington,4.0
+Alaska,Alaska,29308.0
+Alaska,Arizona,1247.0
+Alaska,California,6.0
+Alaska,Colorado,1247.0
+Alaska,Georgia,1.0
+Alaska,Hawaii,1519.0
+Alaska,Illinois,1210.0
+Alaska,Minnesota,1911.0
+Alaska,Missouri,6.0
+Alaska,Nevada,3.0
+Alaska,New Jersey,53.0
+Alaska,New Mexico,1.0
+Alaska,Oregon,2725.0
+Alaska,Texas,298.0
+Alaska,Utah,890.0
+Alaska,Washington,22099.0
+Arizona,Alabama,312.0
+Arizona,Alaska,1258.0
+Arizona,Arizona,17668.0
+Arizona,Arkansas,1066.0
+Arizona,California,129856.0
+Arizona,Colorado,31386.0
+Arizona,Connecticut,5.0
+Arizona,Florida,12765.0
+Arizona,Georgia,17080.0
+Arizona,Hawaii,10192.0
+Arizona,Idaho,3057.0
+Arizona,Illinois,26713.0
+Arizona,Indiana,4701.0
+Arizona,Iowa,1689.0
+Arizona,Kansas,366.0
+Arizona,Kentucky,1026.0
+Arizona,Louisiana,1132.0
+Arizona,Maryland,5254.0
+Arizona,Massachusetts,4926.0
+Arizona,Michigan,9144.0
+Arizona,Minnesota,15639.0
+Arizona,Mississippi,15.0
+Arizona,Missouri,11751.0
+Arizona,Montana,1225.0
+Arizona,Nebraska,3499.0
+Arizona,Nevada,27550.0
+Arizona,New Hampshire,280.0
+Arizona,New Jersey,9569.0
+Arizona,New Mexico,9957.0
+Arizona,New York,7730.0
+Arizona,North Carolina,14742.0
+Arizona,North Dakota,1233.0
+Arizona,Ohio,5158.0
+Arizona,Oklahoma,3668.0
+Arizona,Oregon,10610.0
+Arizona,Pennsylvania,13771.0
+Arizona,Rhode Island,219.0
+Arizona,South Carolina,9.0
+Arizona,South Dakota,689.0
+Arizona,Tennessee,2424.0
+Arizona,Texas,56578.0
+Arizona,Utah,15265.0
+Arizona,Virginia,5125.0
+Arizona,Washington,19148.0
+Arizona,Wisconsin,5107.0
+Arizona,Wyoming,47.0
+Arkansas,Alabama,9.0
+Arkansas,Arizona,1095.0
+Arkansas,Arkansas,106.0
+Arkansas,California,300.0
+Arkansas,Colorado,2340.0
+Arkansas,Connecticut,1.0
+Arkansas,Florida,507.0
+Arkansas,Georgia,7512.0
+Arkansas,Idaho,9.0
+Arkansas,Illinois,5022.0
+Arkansas,Indiana,2.0
+Arkansas,Iowa,1.0
+Arkansas,Kansas,1.0
+Arkansas,Kentucky,263.0
+Arkansas,Louisiana,59.0
+Arkansas,Maryland,729.0
+Arkansas,Michigan,572.0
+Arkansas,Minnesota,459.0
+Arkansas,Mississippi,11.0
+Arkansas,Missouri,1325.0
+Arkansas,Nevada,1303.0
+Arkansas,New Jersey,311.0
+Arkansas,New Mexico,14.0
+Arkansas,New York,337.0
+Arkansas,North Carolina,2390.0
+Arkansas,North Dakota,2.0
+Arkansas,Ohio,59.0
+Arkansas,Oklahoma,57.0
+Arkansas,Oregon,1.0
+Arkansas,Pennsylvania,10.0
+Arkansas,Rhode Island,8.0
+Arkansas,South Carolina,1.0
+Arkansas,Tennessee,1154.0
+Arkansas,Texas,15598.0
+Arkansas,Utah,1.0
+Arkansas,Virginia,994.0
+Arkansas,Washington,4.0
+Arkansas,Wisconsin,1.0
+California,Alabama,152.0
+California,Alaska,5.0
+California,Arizona,129130.0
+California,Arkansas,375.0
+California,California,482492.0
+California,Colorado,101791.0
+California,Connecticut,211.0
+California,Florida,34722.0
+California,Georgia,48312.0
+California,Hawaii,84791.0
+California,Idaho,5700.0
+California,Illinois,92855.0
+California,Indiana,985.0
+California,Iowa,88.0
+California,Kansas,25.0
+California,Kentucky,3647.0
+California,Louisiana,5530.0
+California,Maryland,7002.0
+California,Massachusetts,28396.0
+California,Michigan,17054.0
+California,Minnesota,28877.0
+California,Missouri,13496.0
+California,Montana,1226.0
+California,Nebraska,220.0
+California,Nevada,118868.0
+California,New Hampshire,61.0
+California,New Jersey,24113.0
+California,New Mexico,9294.0
+California,New York,73235.0
+California,North Carolina,18797.0
+California,North Dakota,139.0
+California,Ohio,6923.0
+California,Oklahoma,2442.0
+California,Oregon,58750.0
+California,Pennsylvania,25162.0
+California,Puerto Rico,3.0
+California,Rhode Island,190.0
+California,South Carolina,16.0
+California,South Dakota,4.0
+California,Tennessee,8064.0
+California,Texas,157136.0
+California,U.S. Pacific Trust Territories and Possessions,276.0
+California,Utah,45681.0
+California,Vermont,1.0
+California,Virginia,39834.0
+California,Washington,86952.0
+California,Wisconsin,2845.0
+California,Wyoming,171.0
+Colorado,Alabama,964.0
+Colorado,Alaska,1203.0
+Colorado,Arizona,30979.0
+Colorado,Arkansas,2354.0
+Colorado,California,104584.0
+Colorado,Colorado,31885.0
+Colorado,Connecticut,1209.0
+Colorado,Florida,23991.0
+Colorado,Georgia,20190.0
+Colorado,Hawaii,2553.0
+Colorado,Idaho,6009.0
+Colorado,Illinois,30798.0
+Colorado,Indiana,7321.0
+Colorado,Iowa,6635.0
+Colorado,Kansas,3377.0
+Colorado,Kentucky,3419.0
+Colorado,Louisiana,5068.0
+Colorado,Maryland,6427.0
+Colorado,Massachusetts,8022.0
+Colorado,Michigan,11063.0
+Colorado,Minnesota,17494.0
+Colorado,Mississippi,2.0
+Colorado,Missouri,21816.0
+Colorado,Montana,9972.0
+Colorado,Nebraska,9985.0
+Colorado,Nevada,26419.0
+Colorado,New Hampshire,1125.0
+Colorado,New Jersey,8382.0
+Colorado,New Mexico,6506.0
+Colorado,New York,15142.0
+Colorado,North Carolina,8604.0
+Colorado,North Dakota,6800.0
+Colorado,Ohio,12711.0
+Colorado,Oklahoma,9983.0
+Colorado,Oregon,15268.0
+Colorado,Pennsylvania,12761.0
+Colorado,Rhode Island,1008.0
+Colorado,South Carolina,213.0
+Colorado,South Dakota,4481.0
+Colorado,Tennessee,7750.0
+Colorado,Texas,63473.0
+Colorado,Utah,18975.0
+Colorado,Virginia,16972.0
+Colorado,Washington,25695.0
+Colorado,Wisconsin,9317.0
+Colorado,Wyoming,4881.0
+Connecticut,Alabama,41.0
+Connecticut,Arizona,77.0
+Connecticut,California,194.0
+Connecticut,Colorado,1152.0
+Connecticut,Connecticut,24.0
+Connecticut,Florida,12929.0
+Connecticut,Georgia,6595.0
+Connecticut,Hawaii,1.0
+Connecticut,Illinois,7650.0
+Connecticut,Indiana,14.0
+Connecticut,Iowa,9.0
+Connecticut,Kentucky,837.0
+Connecticut,Louisiana,10.0
+Connecticut,Maine,21.0
+Connecticut,Maryland,6476.0
+Connecticut,Massachusetts,193.0
+Connecticut,Michigan,3349.0
+Connecticut,Minnesota,2864.0
+Connecticut,Mississippi,7.0
+Connecticut,Missouri,58.0
+Connecticut,Montana,1.0
+Connecticut,Nebraska,4.0
+Connecticut,Nevada,529.0
+Connecticut,New Hampshire,25.0
+Connecticut,New Jersey,1018.0
+Connecticut,New Mexico,1.0
+Connecticut,New York,546.0
+Connecticut,North Carolina,6093.0
+Connecticut,Ohio,1402.0
+Connecticut,Oklahoma,1.0
+Connecticut,Oregon,3.0
+Connecticut,Pennsylvania,4237.0
+Connecticut,Puerto Rico,1086.0
+Connecticut,Rhode Island,81.0
+Connecticut,South Carolina,11.0
+Connecticut,Tennessee,107.0
+Connecticut,Texas,3735.0
+Connecticut,U.S. Virgin Islands,18.0
+Connecticut,Utah,18.0
+Connecticut,Vermont,8.0
+Connecticut,Virginia,4785.0
+Connecticut,Washington,6.0
+Connecticut,Wisconsin,1.0
+Connecticut,Wyoming,1.0
+Florida,Alabama,4278.0
+Florida,Alaska,1.0
+Florida,Arizona,12968.0
+Florida,Arkansas,447.0
+Florida,California,34579.0
+Florida,Colorado,24088.0
+Florida,Connecticut,12693.0
+Florida,Florida,77636.0
+Florida,Georgia,177498.0
+Florida,Hawaii,26.0
+Florida,Idaho,10.0
+Florida,Illinois,69512.0
+Florida,Indiana,12256.0
+Florida,Iowa,1154.0
+Florida,Kansas,7.0
+Florida,Kentucky,11867.0
+Florida,Louisiana,9288.0
+Florida,Maine,520.0
+Florida,Maryland,42989.0
+Florida,Massachusetts,37331.0
+Florida,Michigan,42764.0
+Florida,Minnesota,20361.0
+Florida,Mississippi,830.0
+Florida,Missouri,15768.0
+Florida,Montana,6.0
+Florida,Nebraska,348.0
+Florida,Nevada,11131.0
+Florida,New Hampshire,4967.0
+Florida,New Jersey,60524.0
+Florida,New Mexico,284.0
+Florida,New York,151642.0
+Florida,North Carolina,76616.0
+Florida,North Dakota,443.0
+Florida,Ohio,23155.0
+Florida,Oklahoma,407.0
+Florida,Oregon,313.0
+Florida,Pennsylvania,58495.0
+Florida,Puerto Rico,33438.0
+Florida,Rhode Island,9791.0
+Florida,South Carolina,3297.0
+Florida,South Dakota,99.0
+Florida,Tennessee,22387.0
+Florida,Texas,99928.0
+Florida,U.S. Virgin Islands,5788.0
+Florida,Utah,2905.0
+Florida,Vermont,375.0
+Florida,Virginia,53299.0
+Florida,Washington,3923.0
+Florida,West Virginia,900.0
+Florida,Wisconsin,7887.0
+Florida,Wyoming,6.0
+Georgia,Alabama,18408.0
+Georgia,Alaska,2.0
+Georgia,Arizona,17440.0
+Georgia,Arkansas,7568.0
+Georgia,California,48652.0
+Georgia,Colorado,20124.0
+Georgia,Connecticut,6297.0
+Georgia,Florida,179448.0
+Georgia,Georgia,30239.0
+Georgia,Hawaii,2353.0
+Georgia,Idaho,34.0
+Georgia,Illinois,32120.0
+Georgia,Indiana,13476.0
+Georgia,Iowa,2494.0
+Georgia,Kansas,4036.0
+Georgia,Kentucky,16162.0
+Georgia,Louisiana,25172.0
+Georgia,Maine,1683.0
+Georgia,Maryland,19097.0
+Georgia,Massachusetts,16095.0
+Georgia,Michigan,21056.0
+Georgia,Minnesota,15842.0
+Georgia,Mississippi,8721.0
+Georgia,Missouri,24546.0
+Georgia,Montana,192.0
+Georgia,Nebraska,3370.0
+Georgia,Nevada,17418.0
+Georgia,New Hampshire,1553.0
+Georgia,New Jersey,10791.0
+Georgia,New Mexico,2991.0
+Georgia,New York,52372.0
+Georgia,North Carolina,60763.0
+Georgia,Ohio,27243.0
+Georgia,Oklahoma,5803.0
+Georgia,Oregon,3770.0
+Georgia,Pennsylvania,33105.0
+Georgia,Puerto Rico,6324.0
+Georgia,Rhode Island,2803.0
+Georgia,South Carolina,19046.0
+Georgia,South Dakota,198.0
+Georgia,Tennessee,29183.0
+Georgia,Texas,68947.0
+Georgia,U.S. Virgin Islands,1678.0
+Georgia,Utah,10670.0
+Georgia,Vermont,2.0
+Georgia,Virginia,51763.0
+Georgia,Washington,9653.0
+Georgia,West Virginia,1614.0
+Georgia,Wisconsin,12449.0
+Georgia,Wyoming,171.0
+Hawaii,Alaska,1660.0
+Hawaii,Arizona,10155.0
+Hawaii,California,84580.0
+Hawaii,Colorado,2548.0
+Hawaii,Florida,2.0
+Hawaii,Georgia,2338.0
+Hawaii,Hawaii,150834.0
+Hawaii,Illinois,2989.0
+Hawaii,Louisiana,1.0
+Hawaii,Massachusetts,2.0
+Hawaii,Minnesota,452.0
+Hawaii,Nevada,6675.0
+Hawaii,New Jersey,1857.0
+Hawaii,New York,2202.0
+Hawaii,Oregon,6503.0
+Hawaii,Texas,6998.0
+Hawaii,U.S. Pacific Trust Territories and Possessions,1603.0
+Hawaii,Utah,1699.0
+Hawaii,Virginia,1450.0
+Hawaii,Washington,16461.0
+Hawaii,Wisconsin,1.0
+Idaho,Arizona,2974.0
+Idaho,California,5953.0
+Idaho,Colorado,5695.0
+Idaho,Connecticut,7.0
+Idaho,Florida,37.0
+Idaho,Georgia,1.0
+Idaho,Idaho,652.0
+Idaho,Illinois,1421.0
+Idaho,Indiana,1.0
+Idaho,Iowa,3.0
+Idaho,Kentucky,2.0
+Idaho,Louisiana,9.0
+Idaho,Maryland,5.0
+Idaho,Massachusetts,4.0
+Idaho,Michigan,2.0
+Idaho,Minnesota,1579.0
+Idaho,Missouri,3.0
+Idaho,Montana,9.0
+Idaho,Nebraska,2.0
+Idaho,Nevada,2583.0
+Idaho,New Jersey,7.0
+Idaho,North Dakota,6.0
+Idaho,Ohio,10.0
+Idaho,Oklahoma,3.0
+Idaho,Oregon,4046.0
+Idaho,Pennsylvania,1.0
+Idaho,South Carolina,2.0
+Idaho,South Dakota,2.0
+Idaho,Tennessee,15.0
+Idaho,Texas,82.0
+Idaho,Utah,6936.0
+Idaho,Vermont,2.0
+Idaho,Virginia,24.0
+Idaho,Washington,6486.0
+Idaho,Wyoming,8.0
+Illinois,Alabama,3287.0
+Illinois,Alaska,1131.0
+Illinois,Arizona,27255.0
+Illinois,Arkansas,5269.0
+Illinois,California,93694.0
+Illinois,Colorado,31032.0
+Illinois,Connecticut,8052.0
+Illinois,Florida,69824.0
+Illinois,Georgia,32442.0
+Illinois,Hawaii,3429.0
+Illinois,Idaho,1123.0
+Illinois,Illinois,17542.0
+Illinois,Indiana,12571.0
+Illinois,Iowa,11843.0
+Illinois,Kansas,3041.0
+Illinois,Kentucky,13283.0
+Illinois,Louisiana,4645.0
+Illinois,Maine,1446.0
+Illinois,Maryland,10910.0
+Illinois,Massachusetts,23671.0
+Illinois,Michigan,29764.0
+Illinois,Minnesota,32083.0
+Illinois,Mississippi,1168.0
+Illinois,Missouri,33052.0
+Illinois,Montana,388.0
+Illinois,Nebraska,10790.0
+Illinois,Nevada,24934.0
+Illinois,New Hampshire,4256.0
+Illinois,New Jersey,17543.0
+Illinois,New Mexico,3527.0
+Illinois,New York,66293.0
+Illinois,North Carolina,25264.0
+Illinois,North Dakota,1746.0
+Illinois,Ohio,31576.0
+Illinois,Oklahoma,7143.0
+Illinois,Oregon,8414.0
+Illinois,Pennsylvania,37156.0
+Illinois,Puerto Rico,1776.0
+Illinois,Rhode Island,4350.0
+Illinois,South Carolina,6584.0
+Illinois,South Dakota,2579.0
+Illinois,Tennessee,16086.0
+Illinois,Texas,57026.0
+Illinois,U.S. Virgin Islands,108.0
+Illinois,Utah,6312.0
+Illinois,Vermont,1625.0
+Illinois,Virginia,37683.0
+Illinois,Washington,17196.0
+Illinois,West Virginia,532.0
+Illinois,Wisconsin,15923.0
+Illinois,Wyoming,252.0
+Indiana,Alabama,5.0
+Indiana,Arizona,4499.0
+Indiana,Arkansas,2.0
+Indiana,California,921.0
+Indiana,Colorado,7047.0
+Indiana,Connecticut,27.0
+Indiana,Florida,12580.0
+Indiana,Georgia,13627.0
+Indiana,Illinois,12356.0
+Indiana,Indiana,84.0
+Indiana,Iowa,8.0
+Indiana,Kansas,2.0
+Indiana,Kentucky,131.0
+Indiana,Louisiana,20.0
+Indiana,Maine,3.0
+Indiana,Maryland,2539.0
+Indiana,Massachusetts,791.0
+Indiana,Michigan,7284.0
+Indiana,Minnesota,4050.0
+Indiana,Mississippi,2.0
+Indiana,Missouri,1717.0
+Indiana,Nebraska,47.0
+Indiana,Nevada,3228.0
+Indiana,New Hampshire,54.0
+Indiana,New Jersey,1706.0
+Indiana,New York,2339.0
+Indiana,North Carolina,5365.0
+Indiana,Ohio,1433.0
+Indiana,Oklahoma,11.0
+Indiana,Oregon,3.0
+Indiana,Pennsylvania,2553.0
+Indiana,Rhode Island,7.0
+Indiana,South Carolina,36.0
+Indiana,Tennessee,1037.0
+Indiana,Texas,9402.0
+Indiana,Utah,1030.0
+Indiana,Vermont,1.0
+Indiana,Virginia,4185.0
+Indiana,Washington,90.0
+Indiana,West Virginia,1.0
+Indiana,Wisconsin,16.0
+Indiana,Wyoming,1.0
+Iowa,Alabama,1.0
+Iowa,Arizona,1832.0
+Iowa,Arkansas,1.0
+Iowa,California,133.0
+Iowa,Colorado,6883.0
+Iowa,Florida,1304.0
+Iowa,Georgia,2388.0
+Iowa,Hawaii,1.0
+Iowa,Idaho,2.0
+Iowa,Illinois,11579.0
+Iowa,Indiana,3.0
+Iowa,Iowa,101.0
+Iowa,Kansas,3.0
+Iowa,Kentucky,3.0
+Iowa,Louisiana,1.0
+Iowa,Maryland,1.0
+Iowa,Massachusetts,2.0
+Iowa,Michigan,2143.0
+Iowa,Minnesota,3542.0
+Iowa,Missouri,37.0
+Iowa,Montana,2.0
+Iowa,Nebraska,49.0
+Iowa,Nevada,921.0
+Iowa,New Jersey,286.0
+Iowa,New Mexico,1.0
+Iowa,New York,17.0
+Iowa,North Carolina,1012.0
+Iowa,Ohio,14.0
+Iowa,Oklahoma,9.0
+Iowa,Oregon,1.0
+Iowa,Pennsylvania,4.0
+Iowa,Rhode Island,3.0
+Iowa,South Carolina,6.0
+Iowa,South Dakota,9.0
+Iowa,Tennessee,404.0
+Iowa,Texas,4931.0
+Iowa,Virginia,871.0
+Iowa,Washington,7.0
+Iowa,West Virginia,1.0
+Iowa,Wisconsin,14.0
+Iowa,Wyoming,1.0
+Kansas,Arizona,349.0
+Kansas,Arkansas,2.0
+Kansas,California,36.0
+Kansas,Colorado,3392.0
+Kansas,Georgia,4000.0
+Kansas,Hawaii,1.0
+Kansas,Illinois,3056.0
+Kansas,Indiana,2.0
+Kansas,Iowa,1.0
+Kansas,Kansas,10.0
+Kansas,Kentucky,1.0
+Kansas,Louisiana,1.0
+Kansas,Maryland,1.0
+Kansas,Minnesota,1038.0
+Kansas,Missouri,78.0
+Kansas,Nebraska,7.0
+Kansas,Nevada,621.0
+Kansas,New Jersey,1.0
+Kansas,North Carolina,1.0
+Kansas,Ohio,5.0
+Kansas,Oklahoma,36.0
+Kansas,Oregon,1.0
+Kansas,Pennsylvania,1.0
+Kansas,South Carolina,2.0
+Kansas,Tennessee,1.0
+Kansas,Texas,6170.0
+Kansas,Virginia,2.0
+Kansas,Washington,7.0
+Kansas,Wisconsin,1.0
+Kentucky,Alabama,45.0
+Kentucky,Arizona,1051.0
+Kentucky,Arkansas,190.0
+Kentucky,California,3589.0
+Kentucky,Colorado,3616.0
+Kentucky,Connecticut,820.0
+Kentucky,Florida,12130.0
+Kentucky,Georgia,16209.0
+Kentucky,Illinois,13005.0
+Kentucky,Indiana,118.0
+Kentucky,Iowa,2.0
+Kentucky,Kentucky,306.0
+Kentucky,Louisiana,376.0
+Kentucky,Maryland,3773.0
+Kentucky,Massachusetts,2090.0
+Kentucky,Michigan,5478.0
+Kentucky,Minnesota,4016.0
+Kentucky,Mississippi,1.0
+Kentucky,Missouri,3278.0
+Kentucky,Montana,2.0
+Kentucky,Nebraska,245.0
+Kentucky,Nevada,1993.0
+Kentucky,New Hampshire,33.0
+Kentucky,New Jersey,2424.0
+Kentucky,New Mexico,1.0
+Kentucky,New York,4116.0
+Kentucky,North Carolina,10023.0
+Kentucky,North Dakota,1.0
+Kentucky,Ohio,1168.0
+Kentucky,Oklahoma,89.0
+Kentucky,Oregon,85.0
+Kentucky,Pennsylvania,5154.0
+Kentucky,Rhode Island,1.0
+Kentucky,South Carolina,268.0
+Kentucky,South Dakota,1.0
+Kentucky,Tennessee,2287.0
+Kentucky,Texas,9057.0
+Kentucky,Utah,2251.0
+Kentucky,Vermont,5.0
+Kentucky,Virginia,4803.0
+Kentucky,Washington,691.0
+Kentucky,West Virginia,18.0
+Kentucky,Wisconsin,1161.0
+Louisiana,Alabama,1095.0
+Louisiana,Arizona,1085.0
+Louisiana,Arkansas,23.0
+Louisiana,California,5259.0
+Louisiana,Colorado,5089.0
+Louisiana,Connecticut,75.0
+Louisiana,Florida,9715.0
+Louisiana,Georgia,24866.0
+Louisiana,Hawaii,1.0
+Louisiana,Idaho,5.0
+Louisiana,Illinois,4488.0
+Louisiana,Indiana,14.0
+Louisiana,Iowa,1.0
+Louisiana,Kansas,1.0
+Louisiana,Kentucky,399.0
+Louisiana,Louisiana,582.0
+Louisiana,Maine,12.0
+Louisiana,Maryland,2666.0
+Louisiana,Massachusetts,685.0
+Louisiana,Michigan,1347.0
+Louisiana,Minnesota,1031.0
+Louisiana,Mississippi,98.0
+Louisiana,Missouri,1714.0
+Louisiana,Montana,1.0
+Louisiana,Nebraska,5.0
+Louisiana,Nevada,2578.0
+Louisiana,New Hampshire,12.0
+Louisiana,New Jersey,1735.0
+Louisiana,New Mexico,85.0
+Louisiana,New York,5562.0
+Louisiana,North Carolina,6932.0
+Louisiana,Ohio,363.0
+Louisiana,Oklahoma,64.0
+Louisiana,Oregon,21.0
+Louisiana,Pennsylvania,1529.0
+Louisiana,Rhode Island,20.0
+Louisiana,South Carolina,4.0
+Louisiana,Tennessee,4544.0
+Louisiana,Texas,45584.0
+Louisiana,Utah,1000.0
+Louisiana,Vermont,1.0
+Louisiana,Virginia,3547.0
+Louisiana,Washington,99.0
+Louisiana,Wisconsin,14.0
+Maine,Colorado,1.0
+Maine,Connecticut,28.0
+Maine,Florida,696.0
+Maine,Georgia,1786.0
+Maine,Illinois,1447.0
+Maine,Indiana,19.0
+Maine,Kentucky,5.0
+Maine,Maine,63.0
+Maine,Maryland,1938.0
+Maine,Massachusetts,476.0
+Maine,Michigan,1969.0
+Maine,Missouri,31.0
+Maine,New Hampshire,18.0
+Maine,New Jersey,1555.0
+Maine,New York,4861.0
+Maine,North Carolina,1009.0
+Maine,Ohio,97.0
+Maine,Pennsylvania,4356.0
+Maine,Rhode Island,16.0
+Maine,South Carolina,2.0
+Maine,Tennessee,7.0
+Maine,Texas,4.0
+Maine,Vermont,21.0
+Maine,Virginia,3682.0
+Maine,Washington,2.0
+Maine,Wisconsin,2.0
+Maryland,Alabama,2288.0
+Maryland,Arizona,5257.0
+Maryland,Arkansas,578.0
+Maryland,California,6777.0
+Maryland,Colorado,6678.0
+Maryland,Connecticut,6429.0
+Maryland,Florida,43941.0
+Maryland,Georgia,19397.0
+Maryland,Idaho,14.0
+Maryland,Illinois,10745.0
+Maryland,Indiana,2539.0
+Maryland,Kentucky,3673.0
+Maryland,Louisiana,2654.0
+Maryland,Maine,1851.0
+Maryland,Maryland,41.0
+Maryland,Massachusetts,12042.0
+Maryland,Michigan,9541.0
+Maryland,Minnesota,3595.0
+Maryland,Mississippi,644.0
+Maryland,Missouri,6637.0
+Maryland,Nebraska,2.0
+Maryland,Nevada,3922.0
+Maryland,New Hampshire,6686.0
+Maryland,New Jersey,2889.0
+Maryland,New Mexico,1446.0
+Maryland,New York,18397.0
+Maryland,North Carolina,18269.0
+Maryland,Ohio,10150.0
+Maryland,Oklahoma,895.0
+Maryland,Oregon,4.0
+Maryland,Pennsylvania,7244.0
+Maryland,Puerto Rico,1769.0
+Maryland,Rhode Island,7816.0
+Maryland,South Carolina,4109.0
+Maryland,South Dakota,1.0
+Maryland,Tennessee,5014.0
+Maryland,Texas,20340.0
+Maryland,U.S. Virgin Islands,6.0
+Maryland,Utah,2887.0
+Maryland,Vermont,3.0
+Maryland,Virginia,4496.0
+Maryland,Washington,308.0
+Maryland,West Virginia,2.0
+Maryland,Wisconsin,2674.0
+Massachusetts,Alabama,43.0
+Massachusetts,Alaska,1.0
+Massachusetts,Arizona,5162.0
+Massachusetts,Arkansas,1.0
+Massachusetts,California,27652.0
+Massachusetts,Colorado,7818.0
+Massachusetts,Connecticut,199.0
+Massachusetts,Florida,38016.0
+Massachusetts,Georgia,16324.0
+Massachusetts,Hawaii,8.0
+Massachusetts,Illinois,23176.0
+Massachusetts,Indiana,790.0
+Massachusetts,Iowa,4.0
+Massachusetts,Kentucky,1954.0
+Massachusetts,Louisiana,628.0
+Massachusetts,Maine,506.0
+Massachusetts,Maryland,12233.0
+Massachusetts,Massachusetts,592.0
+Massachusetts,Michigan,5703.0
+Massachusetts,Minnesota,6225.0
+Massachusetts,Missouri,2497.0
+Massachusetts,Nebraska,42.0
+Massachusetts,Nevada,2474.0
+Massachusetts,New Hampshire,264.0
+Massachusetts,New Jersey,9830.0
+Massachusetts,New Mexico,61.0
+Massachusetts,New York,22167.0
+Massachusetts,North Carolina,17153.0
+Massachusetts,Ohio,3575.0
+Massachusetts,Oklahoma,1.0
+Massachusetts,Oregon,1274.0
+Massachusetts,Pennsylvania,15148.0
+Massachusetts,Puerto Rico,3025.0
+Massachusetts,Rhode Island,251.0
+Massachusetts,South Carolina,1012.0
+Massachusetts,Tennessee,1915.0
+Massachusetts,Texas,18001.0
+Massachusetts,U.S. Virgin Islands,543.0
+Massachusetts,Utah,1561.0
+Massachusetts,Vermont,120.0
+Massachusetts,Virginia,27230.0
+Massachusetts,Washington,2939.0
+Massachusetts,Wisconsin,2121.0
+Michigan,Alabama,1573.0
+Michigan,Arizona,9338.0
+Michigan,Arkansas,599.0
+Michigan,California,16629.0
+Michigan,Colorado,10669.0
+Michigan,Connecticut,3454.0
+Michigan,Florida,42780.0
+Michigan,Georgia,20861.0
+Michigan,Illinois,30210.0
+Michigan,Indiana,7302.0
+Michigan,Iowa,2130.0
+Michigan,Kentucky,5510.0
+Michigan,Louisiana,1342.0
+Michigan,Maine,1980.0
+Michigan,Maryland,9575.0
+Michigan,Massachusetts,5877.0
+Michigan,Michigan,27459.0
+Michigan,Minnesota,14701.0
+Michigan,Missouri,7489.0
+Michigan,Montana,1.0
+Michigan,Nebraska,1231.0
+Michigan,Nevada,12580.0
+Michigan,New Hampshire,1396.0
+Michigan,New Jersey,4959.0
+Michigan,New Mexico,15.0
+Michigan,New York,25027.0
+Michigan,North Carolina,12025.0
+Michigan,Ohio,7389.0
+Michigan,Oklahoma,1494.0
+Michigan,Oregon,158.0
+Michigan,Pennsylvania,14749.0
+Michigan,Puerto Rico,46.0
+Michigan,Rhode Island,2008.0
+Michigan,South Carolina,2611.0
+Michigan,South Dakota,179.0
+Michigan,Tennessee,8501.0
+Michigan,Texas,17713.0
+Michigan,Utah,4704.0
+Michigan,Vermont,1232.0
+Michigan,Virginia,11534.0
+Michigan,Washington,4541.0
+Michigan,West Virginia,428.0
+Michigan,Wisconsin,11098.0
+Minnesota,Alabama,456.0
+Minnesota,Alaska,1978.0
+Minnesota,Arizona,16078.0
+Minnesota,Arkansas,450.0
+Minnesota,California,29721.0
+Minnesota,Colorado,17431.0
+Minnesota,Connecticut,2867.0
+Minnesota,Florida,20881.0
+Minnesota,Georgia,15171.0
+Minnesota,Hawaii,761.0
+Minnesota,Idaho,1611.0
+Minnesota,Illinois,32224.0
+Minnesota,Indiana,3940.0
+Minnesota,Iowa,3546.0
+Minnesota,Kansas,1010.0
+Minnesota,Kentucky,3775.0
+Minnesota,Louisiana,972.0
+Minnesota,Maine,14.0
+Minnesota,Maryland,3293.0
+Minnesota,Massachusetts,6067.0
+Minnesota,Michigan,14257.0
+Minnesota,Minnesota,7359.0
+Minnesota,Mississippi,1.0
+Minnesota,Missouri,9634.0
+Minnesota,Montana,5760.0
+Minnesota,Nebraska,4350.0
+Minnesota,Nevada,10678.0
+Minnesota,New Hampshire,9.0
+Minnesota,New Jersey,3681.0
+Minnesota,New Mexico,1487.0
+Minnesota,New York,12801.0
+Minnesota,North Carolina,8430.0
+Minnesota,North Dakota,11086.0
+Minnesota,Ohio,5899.0
+Minnesota,Oklahoma,1359.0
+Minnesota,Oregon,4550.0
+Minnesota,Pennsylvania,8863.0
+Minnesota,Puerto Rico,91.0
+Minnesota,Rhode Island,480.0
+Minnesota,South Carolina,2.0
+Minnesota,South Dakota,5270.0
+Minnesota,Tennessee,4055.0
+Minnesota,Texas,15564.0
+Minnesota,U.S. Virgin Islands,29.0
+Minnesota,Utah,5906.0
+Minnesota,Vermont,9.0
+Minnesota,Virginia,9040.0
+Minnesota,Washington,13986.0
+Minnesota,Wisconsin,16025.0
+Minnesota,Wyoming,109.0
+Mississippi,Alabama,55.0
+Mississippi,Arkansas,4.0
+Mississippi,California,6.0
+Mississippi,Colorado,2.0
+Mississippi,Connecticut,2.0
+Mississippi,Florida,819.0
+Mississippi,Georgia,8562.0
+Mississippi,Illinois,1013.0
+Mississippi,Indiana,9.0
+Mississippi,Iowa,1.0
+Mississippi,Kansas,1.0
+Mississippi,Kentucky,1.0
+Mississippi,Louisiana,105.0
+Mississippi,Maryland,721.0
+Mississippi,Michigan,13.0
+Mississippi,Mississippi,29.0
+Mississippi,Missouri,4.0
+Mississippi,Nevada,37.0
+Mississippi,New Jersey,1.0
+Mississippi,New Mexico,1.0
+Mississippi,New York,4.0
+Mississippi,North Carolina,2403.0
+Mississippi,Ohio,6.0
+Mississippi,Pennsylvania,4.0
+Mississippi,South Carolina,7.0
+Mississippi,Tennessee,963.0
+Mississippi,Texas,8745.0
+Mississippi,Virginia,402.0
+Mississippi,Washington,1.0
+Mississippi,Wisconsin,2.0
+Missouri,Alabama,875.0
+Missouri,Alaska,4.0
+Missouri,Arizona,11898.0
+Missouri,Arkansas,1263.0
+Missouri,California,13250.0
+Missouri,Colorado,22012.0
+Missouri,Connecticut,52.0
+Missouri,Florida,16132.0
+Missouri,Georgia,24251.0
+Missouri,Idaho,5.0
+Missouri,Illinois,32116.0
+Missouri,Indiana,1553.0
+Missouri,Iowa,49.0
+Missouri,Kansas,66.0
+Missouri,Kentucky,3456.0
+Missouri,Louisiana,1852.0
+Missouri,Maine,33.0
+Missouri,Maryland,6282.0
+Missouri,Massachusetts,2460.0
+Missouri,Michigan,7342.0
+Missouri,Minnesota,9514.0
+Missouri,Mississippi,5.0
+Missouri,Missouri,7484.0
+Missouri,Montana,6.0
+Missouri,Nebraska,2510.0
+Missouri,Nevada,8615.0
+Missouri,New Hampshire,76.0
+Missouri,New Jersey,4533.0
+Missouri,New Mexico,1666.0
+Missouri,New York,8530.0
+Missouri,North Carolina,9264.0
+Missouri,Ohio,3607.0
+Missouri,Oklahoma,3889.0
+Missouri,Oregon,932.0
+Missouri,Pennsylvania,5634.0
+Missouri,Rhode Island,55.0
+Missouri,South Carolina,18.0
+Missouri,South Dakota,9.0
+Missouri,Tennessee,6469.0
+Missouri,Texas,41092.0
+Missouri,Utah,3543.0
+Missouri,Vermont,3.0
+Missouri,Virginia,7788.0
+Missouri,Washington,4353.0
+Missouri,West Virginia,2.0
+Missouri,Wisconsin,2775.0
+Missouri,Wyoming,1.0
+Montana,Arizona,1430.0
+Montana,Arkansas,5.0
+Montana,California,1223.0
+Montana,Colorado,10203.0
+Montana,Georgia,222.0
+Montana,Idaho,21.0
+Montana,Illinois,401.0
+Montana,Indiana,1.0
+Montana,Kentucky,1.0
+Montana,Massachusetts,1.0
+Montana,Minnesota,5662.0
+Montana,Missouri,2.0
+Montana,Montana,518.0
+Montana,Nebraska,4.0
+Montana,Nevada,2077.0
+Montana,New Jersey,27.0
+Montana,New Mexico,4.0
+Montana,New York,12.0
+Montana,North Dakota,11.0
+Montana,Oklahoma,1.0
+Montana,Oregon,539.0
+Montana,South Dakota,8.0
+Montana,Texas,19.0
+Montana,Utah,8060.0
+Montana,Washington,5711.0
+Montana,Wisconsin,1.0
+Montana,Wyoming,18.0
+Nebraska,Arizona,3681.0
+Nebraska,Arkansas,9.0
+Nebraska,California,400.0
+Nebraska,Colorado,9386.0
+Nebraska,Connecticut,1.0
+Nebraska,Florida,500.0
+Nebraska,Georgia,3365.0
+Nebraska,Idaho,2.0
+Nebraska,Illinois,10950.0
+Nebraska,Indiana,34.0
+Nebraska,Iowa,57.0
+Nebraska,Kansas,5.0
+Nebraska,Kentucky,244.0
+Nebraska,Louisiana,3.0
+Nebraska,Maryland,77.0
+Nebraska,Massachusetts,18.0
+Nebraska,Michigan,1243.0
+Nebraska,Minnesota,4131.0
+Nebraska,Mississippi,1.0
+Nebraska,Missouri,2420.0
+Nebraska,Nebraska,113.0
+Nebraska,Nevada,3186.0
+Nebraska,New Hampshire,4.0
+Nebraska,New Jersey,842.0
+Nebraska,New Mexico,22.0
+Nebraska,New York,15.0
+Nebraska,North Carolina,1159.0
+Nebraska,North Dakota,4.0
+Nebraska,Ohio,21.0
+Nebraska,Oklahoma,1.0
+Nebraska,Oregon,3.0
+Nebraska,Pennsylvania,81.0
+Nebraska,South Dakota,13.0
+Nebraska,Tennessee,564.0
+Nebraska,Texas,6454.0
+Nebraska,Utah,1133.0
+Nebraska,Virginia,1692.0
+Nebraska,Washington,6.0
+Nebraska,Wisconsin,4.0
+Nebraska,Wyoming,3.0
+Nevada,Alabama,920.0
+Nevada,Alaska,31.0
+Nevada,Arizona,28382.0
+Nevada,Arkansas,1299.0
+Nevada,California,122822.0
+Nevada,Colorado,26972.0
+Nevada,Connecticut,474.0
+Nevada,Florida,11203.0
+Nevada,Georgia,17554.0
+Nevada,Hawaii,6840.0
+Nevada,Idaho,2626.0
+Nevada,Illinois,24751.0
+Nevada,Indiana,3051.0
+Nevada,Iowa,890.0
+Nevada,Kansas,720.0
+Nevada,Kentucky,1894.0
+Nevada,Louisiana,2400.0
+Nevada,Maryland,3843.0
+Nevada,Massachusetts,2455.0
+Nevada,Michigan,12396.0
+Nevada,Minnesota,10803.0
+Nevada,Missouri,8381.0
+Nevada,Montana,2009.0
+Nevada,Nebraska,3028.0
+Nevada,Nevada,16646.0
+Nevada,New Hampshire,56.0
+Nevada,New Jersey,6267.0
+Nevada,New Mexico,4138.0
+Nevada,New York,13002.0
+Nevada,North Carolina,7557.0
+Nevada,North Dakota,1758.0
+Nevada,Ohio,5892.0
+Nevada,Oklahoma,2798.0
+Nevada,Oregon,11904.0
+Nevada,Pennsylvania,8737.0
+Nevada,Puerto Rico,1.0
+Nevada,Rhode Island,1138.0
+Nevada,South Carolina,174.0
+Nevada,South Dakota,971.0
+Nevada,Tennessee,4802.0
+Nevada,Texas,47227.0
+Nevada,Utah,14193.0
+Nevada,Virginia,3760.0
+Nevada,Washington,21778.0
+Nevada,Wisconsin,3882.0
+Nevada,Wyoming,229.0
+New Hampshire,Alabama,2.0
+New Hampshire,Arizona,332.0
+New Hampshire,California,72.0
+New Hampshire,Colorado,985.0
+New Hampshire,Connecticut,19.0
+New Hampshire,Florida,5026.0
+New Hampshire,Georgia,1610.0
+New Hampshire,Idaho,1.0
+New Hampshire,Illinois,4188.0
+New Hampshire,Indiana,12.0
+New Hampshire,Iowa,2.0
+New Hampshire,Kentucky,7.0
+New Hampshire,Louisiana,2.0
+New Hampshire,Maine,24.0
+New Hampshire,Maryland,6527.0
+New Hampshire,Massachusetts,233.0
+New Hampshire,Michigan,1441.0
+New Hampshire,Minnesota,3.0
+New Hampshire,Mississippi,4.0
+New Hampshire,Missouri,58.0
+New Hampshire,Nebraska,4.0
+New Hampshire,Nevada,19.0
+New Hampshire,New Hampshire,3.0
+New Hampshire,New Jersey,1256.0
+New Hampshire,New Mexico,3.0
+New Hampshire,New York,951.0
+New Hampshire,North Carolina,711.0
+New Hampshire,Ohio,942.0
+New Hampshire,Oklahoma,2.0
+New Hampshire,Pennsylvania,3048.0
+New Hampshire,Rhode Island,21.0
+New Hampshire,South Carolina,14.0
+New Hampshire,Tennessee,34.0
+New Hampshire,Texas,136.0
+New Hampshire,U.S. Virgin Islands,1.0
+New Hampshire,Vermont,13.0
+New Hampshire,Virginia,1899.0
+New Hampshire,Washington,7.0
+New Hampshire,Wisconsin,2.0
+New Jersey,Alaska,52.0
+New Jersey,Arizona,9553.0
+New Jersey,Arkansas,332.0
+New Jersey,California,22680.0
+New Jersey,Colorado,8563.0
+New Jersey,Connecticut,1235.0
+New Jersey,Florida,60723.0
+New Jersey,Georgia,11054.0
+New Jersey,Hawaii,1884.0
+New Jersey,Idaho,1.0
+New Jersey,Illinois,17579.0
+New Jersey,Indiana,1724.0
+New Jersey,Iowa,303.0
+New Jersey,Kentucky,2327.0
+New Jersey,Louisiana,1616.0
+New Jersey,Maine,1682.0
+New Jersey,Maryland,3040.0
+New Jersey,Massachusetts,10222.0
+New Jersey,Michigan,4818.0
+New Jersey,Minnesota,3691.0
+New Jersey,Missouri,4605.0
+New Jersey,Montana,33.0
+New Jersey,Nebraska,777.0
+New Jersey,Nevada,5812.0
+New Jersey,New Hampshire,1322.0
+New Jersey,New Jersey,1.0
+New Jersey,New Mexico,46.0
+New Jersey,New York,9030.0
+New Jersey,North Carolina,15383.0
+New Jersey,Ohio,5295.0
+New Jersey,Oklahoma,582.0
+New Jersey,Oregon,1805.0
+New Jersey,Pennsylvania,5794.0
+New Jersey,Puerto Rico,3723.0
+New Jersey,Rhode Island,1128.0
+New Jersey,South Carolina,3127.0
+New Jersey,Tennessee,2196.0
+New Jersey,Texas,21616.0
+New Jersey,U.S. Virgin Islands,407.0
+New Jersey,Utah,1122.0
+New Jersey,Vermont,1386.0
+New Jersey,Virginia,4983.0
+New Jersey,Washington,5403.0
+New Jersey,Wisconsin,1352.0
+New Jersey,Wyoming,143.0
+New Mexico,Alabama,1.0
+New Mexico,Arizona,10107.0
+New Mexico,Arkansas,13.0
+New Mexico,California,9238.0
+New Mexico,Colorado,6849.0
+New Mexico,Florida,357.0
+New Mexico,Georgia,3253.0
+New Mexico,Idaho,14.0
+New Mexico,Illinois,3533.0
+New Mexico,Iowa,12.0
+New Mexico,Kansas,3.0
+New Mexico,Kentucky,3.0
+New Mexico,Louisiana,10.0
+New Mexico,Maryland,1425.0
+New Mexico,Massachusetts,6.0
+New Mexico,Michigan,15.0
+New Mexico,Minnesota,1386.0
+New Mexico,Mississippi,3.0
+New Mexico,Missouri,1627.0
+New Mexico,Montana,1.0
+New Mexico,Nebraska,24.0
+New Mexico,Nevada,4254.0
+New Mexico,New Jersey,17.0
+New Mexico,New Mexico,102.0
+New Mexico,New York,114.0
+New Mexico,North Carolina,1.0
+New Mexico,Ohio,1.0
+New Mexico,Oklahoma,51.0
+New Mexico,Oregon,834.0
+New Mexico,Pennsylvania,46.0
+New Mexico,South Dakota,6.0
+New Mexico,Tennessee,32.0
+New Mexico,Texas,19475.0
+New Mexico,Utah,1625.0
+New Mexico,Virginia,904.0
+New Mexico,Washington,989.0
+New Mexico,Wisconsin,15.0
+New Mexico,Wyoming,11.0
+New York,Alabama,398.0
+New York,Arizona,7262.0
+New York,Arkansas,360.0
+New York,California,73353.0
+New York,Colorado,14763.0
+New York,Connecticut,522.0
+New York,Florida,155005.0
+New York,Georgia,52302.0
+New York,Hawaii,2168.0
+New York,Idaho,1.0
+New York,Illinois,66286.0
+New York,Indiana,2387.0
+New York,Iowa,32.0
+New York,Kansas,17.0
+New York,Kentucky,4092.0
+New York,Louisiana,5479.0
+New York,Maine,4887.0
+New York,Maryland,18955.0
+New York,Massachusetts,22539.0
+New York,Michigan,25218.0
+New York,Minnesota,12781.0
+New York,Mississippi,2.0
+New York,Missouri,8730.0
+New York,Nebraska,11.0
+New York,Nevada,13398.0
+New York,New Hampshire,955.0
+New York,New Jersey,9518.0
+New York,New Mexico,6.0
+New York,New York,51161.0
+New York,North Carolina,46750.0
+New York,North Dakota,1.0
+New York,Ohio,12856.0
+New York,Oklahoma,64.0
+New York,Oregon,2177.0
+New York,Pennsylvania,28024.0
+New York,Puerto Rico,16643.0
+New York,Rhode Island,84.0
+New York,South Carolina,4944.0
+New York,Tennessee,6181.0
+New York,Texas,32470.0
+New York,U.S. Virgin Islands,1005.0
+New York,Utah,5730.0
+New York,Vermont,4102.0
+New York,Virginia,36248.0
+New York,Washington,5519.0
+New York,West Virginia,237.0
+New York,Wisconsin,5730.0
+North Carolina,Alabama,7484.0
+North Carolina,Arizona,15126.0
+North Carolina,Arkansas,2412.0
+North Carolina,California,19387.0
+North Carolina,Colorado,8146.0
+North Carolina,Connecticut,6212.0
+North Carolina,Florida,77508.0
+North Carolina,Georgia,60994.0
+North Carolina,Hawaii,4.0
+North Carolina,Idaho,1.0
+North Carolina,Illinois,24635.0
+North Carolina,Indiana,4867.0
+North Carolina,Iowa,951.0
+North Carolina,Kansas,2.0
+North Carolina,Kentucky,9769.0
+North Carolina,Louisiana,6899.0
+North Carolina,Maine,1028.0
+North Carolina,Maryland,18512.0
+North Carolina,Massachusetts,17461.0
+North Carolina,Michigan,11670.0
+North Carolina,Minnesota,8377.0
+North Carolina,Mississippi,2349.0
+North Carolina,Missouri,8967.0
+North Carolina,Nebraska,1101.0
+North Carolina,Nevada,7492.0
+North Carolina,New Hampshire,714.0
+North Carolina,New Jersey,15697.0
+North Carolina,New Mexico,4.0
+North Carolina,New York,47516.0
+North Carolina,North Carolina,66337.0
+North Carolina,Ohio,15270.0
+North Carolina,Oklahoma,5.0
+North Carolina,Oregon,204.0
+North Carolina,Pennsylvania,33692.0
+North Carolina,Puerto Rico,3564.0
+North Carolina,Rhode Island,5201.0
+North Carolina,South Carolina,18139.0
+North Carolina,Tennessee,21158.0
+North Carolina,Texas,40099.0
+North Carolina,U.S. Virgin Islands,1563.0
+North Carolina,Utah,1883.0
+North Carolina,Vermont,6.0
+North Carolina,Virginia,40801.0
+North Carolina,Washington,2842.0
+North Carolina,West Virginia,2649.0
+North Carolina,Wisconsin,1577.0
+North Dakota,Arizona,1604.0
+North Dakota,California,175.0
+North Dakota,Colorado,6744.0
+North Dakota,Florida,574.0
+North Dakota,Idaho,3.0
+North Dakota,Illinois,1733.0
+North Dakota,Indiana,1.0
+North Dakota,Iowa,3.0
+North Dakota,Minnesota,11072.0
+North Dakota,Montana,9.0
+North Dakota,Nebraska,2.0
+North Dakota,Nevada,1900.0
+North Dakota,New Mexico,2.0
+North Dakota,New York,3.0
+North Dakota,North Dakota,136.0
+North Dakota,Ohio,2.0
+North Dakota,Oregon,4.0
+North Dakota,South Dakota,25.0
+North Dakota,Texas,2.0
+North Dakota,Utah,483.0
+North Dakota,Washington,1.0
+North Dakota,Wyoming,5.0
+Ohio,Alabama,31.0
+Ohio,Alaska,1.0
+Ohio,Arizona,5008.0
+Ohio,Arkansas,42.0
+Ohio,California,6499.0
+Ohio,Colorado,12402.0
+Ohio,Connecticut,1242.0
+Ohio,Florida,23057.0
+Ohio,Georgia,27426.0
+Ohio,Hawaii,10.0
+Ohio,Idaho,24.0
+Ohio,Illinois,32255.0
+Ohio,Indiana,1427.0
+Ohio,Iowa,24.0
+Ohio,Kansas,2.0
+Ohio,Kentucky,1257.0
+Ohio,Louisiana,343.0
+Ohio,Maine,106.0
+Ohio,Maryland,10090.0
+Ohio,Massachusetts,3452.0
+Ohio,Michigan,7400.0
+Ohio,Minnesota,5989.0
+Ohio,Mississippi,1.0
+Ohio,Missouri,3646.0
+Ohio,Nebraska,112.0
+Ohio,Nevada,6088.0
+Ohio,New Hampshire,958.0
+Ohio,New Jersey,5243.0
+Ohio,New Mexico,20.0
+Ohio,New York,12828.0
+Ohio,North Carolina,15090.0
+Ohio,Ohio,3977.0
+Ohio,Oklahoma,12.0
+Ohio,Oregon,44.0
+Ohio,Pennsylvania,10473.0
+Ohio,Puerto Rico,80.0
+Ohio,Rhode Island,883.0
+Ohio,South Carolina,261.0
+Ohio,Tennessee,4109.0
+Ohio,Texas,16962.0
+Ohio,Utah,26.0
+Ohio,Vermont,411.0
+Ohio,Virginia,9273.0
+Ohio,Washington,387.0
+Ohio,West Virginia,205.0
+Ohio,Wisconsin,2304.0
+Oklahoma,Alabama,8.0
+Oklahoma,Arizona,3377.0
+Oklahoma,Arkansas,56.0
+Oklahoma,California,2276.0
+Oklahoma,Colorado,10496.0
+Oklahoma,Connecticut,2.0
+Oklahoma,Florida,452.0
+Oklahoma,Georgia,5834.0
+Oklahoma,Idaho,10.0
+Oklahoma,Illinois,6851.0
+Oklahoma,Indiana,5.0
+Oklahoma,Kansas,43.0
+Oklahoma,Kentucky,92.0
+Oklahoma,Louisiana,153.0
+Oklahoma,Maryland,863.0
+Oklahoma,Massachusetts,21.0
+Oklahoma,Michigan,1287.0
+Oklahoma,Minnesota,1419.0
+Oklahoma,Mississippi,3.0
+Oklahoma,Missouri,3785.0
+Oklahoma,Montana,1.0
+Oklahoma,Nebraska,4.0
+Oklahoma,Nevada,2835.0
+Oklahoma,New Hampshire,12.0
+Oklahoma,New Jersey,653.0
+Oklahoma,New Mexico,57.0
+Oklahoma,New York,33.0
+Oklahoma,North Carolina,8.0
+Oklahoma,Ohio,7.0
+Oklahoma,Oklahoma,235.0
+Oklahoma,Oregon,17.0
+Oklahoma,Pennsylvania,25.0
+Oklahoma,South Carolina,4.0
+Oklahoma,South Dakota,2.0
+Oklahoma,Tennessee,1187.0
+Oklahoma,Texas,32312.0
+Oklahoma,Utah,1524.0
+Oklahoma,Virginia,613.0
+Oklahoma,Washington,66.0
+Oklahoma,Wisconsin,22.0
+Oklahoma,Wyoming,1.0
+Oregon,Alabama,1.0
+Oregon,Alaska,2269.0
+Oregon,Arizona,10603.0
+Oregon,Arkansas,3.0
+Oregon,California,58950.0
+Oregon,Colorado,15071.0
+Oregon,Florida,262.0
+Oregon,Georgia,3675.0
+Oregon,Hawaii,6374.0
+Oregon,Idaho,3799.0
+Oregon,Illinois,8660.0
+Oregon,Indiana,6.0
+Oregon,Iowa,17.0
+Oregon,Kansas,6.0
+Oregon,Kentucky,85.0
+Oregon,Louisiana,15.0
+Oregon,Maryland,20.0
+Oregon,Massachusetts,1292.0
+Oregon,Michigan,129.0
+Oregon,Minnesota,4452.0
+Oregon,Missouri,982.0
+Oregon,Montana,493.0
+Oregon,Nebraska,41.0
+Oregon,Nevada,12028.0
+Oregon,New Jersey,2161.0
+Oregon,New Mexico,1069.0
+Oregon,New York,2305.0
+Oregon,North Carolina,192.0
+Oregon,North Dakota,1.0
+Oregon,Ohio,9.0
+Oregon,Oklahoma,16.0
+Oregon,Oregon,12728.0
+Oregon,Pennsylvania,44.0
+Oregon,Tennessee,25.0
+Oregon,Texas,8377.0
+Oregon,Utah,8913.0
+Oregon,Virginia,2731.0
+Oregon,Washington,20330.0
+Oregon,Wisconsin,8.0
+Pennsylvania,Alabama,325.0
+Pennsylvania,Arizona,13012.0
+Pennsylvania,Arkansas,7.0
+Pennsylvania,California,24472.0
+Pennsylvania,Colorado,12142.0
+Pennsylvania,Connecticut,4543.0
+Pennsylvania,Florida,57955.0
+Pennsylvania,Georgia,33633.0
+Pennsylvania,Hawaii,3.0
+Pennsylvania,Idaho,8.0
+Pennsylvania,Illinois,37324.0
+Pennsylvania,Indiana,2947.0
+Pennsylvania,Iowa,3.0
+Pennsylvania,Kentucky,5186.0
+Pennsylvania,Louisiana,1572.0
+Pennsylvania,Maine,4413.0
+Pennsylvania,Maryland,7408.0
+Pennsylvania,Massachusetts,15140.0
+Pennsylvania,Michigan,14808.0
+Pennsylvania,Minnesota,8615.0
+Pennsylvania,Mississippi,1.0
+Pennsylvania,Missouri,5552.0
+Pennsylvania,Nebraska,5.0
+Pennsylvania,Nevada,8823.0
+Pennsylvania,New Hampshire,3082.0
+Pennsylvania,New Jersey,5615.0
+Pennsylvania,New Mexico,83.0
+Pennsylvania,New York,28533.0
+Pennsylvania,North Carolina,33413.0
+Pennsylvania,Ohio,10440.0
+Pennsylvania,Oklahoma,30.0
+Pennsylvania,Oregon,27.0
+Pennsylvania,Pennsylvania,22614.0
+Pennsylvania,Puerto Rico,4808.0
+Pennsylvania,Rhode Island,3283.0
+Pennsylvania,South Carolina,3143.0
+Pennsylvania,South Dakota,1.0
+Pennsylvania,Tennessee,5671.0
+Pennsylvania,Texas,28872.0
+Pennsylvania,U.S. Virgin Islands,563.0
+Pennsylvania,Utah,1416.0
+Pennsylvania,Vermont,2275.0
+Pennsylvania,Virginia,16544.0
+Pennsylvania,Washington,3564.0
+Pennsylvania,West Virginia,27.0
+Pennsylvania,Wisconsin,1581.0
+Pennsylvania,Wyoming,2.0
+Puerto Rico,California,12.0
+Puerto Rico,Colorado,6.0
+Puerto Rico,Connecticut,1163.0
+Puerto Rico,Florida,33810.0
+Puerto Rico,Georgia,6377.0
+Puerto Rico,Illinois,1657.0
+Puerto Rico,Louisiana,1.0
+Puerto Rico,Maryland,1674.0
+Puerto Rico,Massachusetts,2846.0
+Puerto Rico,Michigan,43.0
+Puerto Rico,Minnesota,89.0
+Puerto Rico,Nebraska,1.0
+Puerto Rico,Nevada,1.0
+Puerto Rico,New Jersey,3713.0
+Puerto Rico,New York,16264.0
+Puerto Rico,North Carolina,3591.0
+Puerto Rico,Ohio,99.0
+Puerto Rico,Oregon,3.0
+Puerto Rico,Pennsylvania,4857.0
+Puerto Rico,Puerto Rico,485.0
+Puerto Rico,Texas,3818.0
+Puerto Rico,U.S. Virgin Islands,4019.0
+Puerto Rico,Virginia,2333.0
+Puerto Rico,Washington,1.0
+Rhode Island,Arizona,257.0
+Rhode Island,California,204.0
+Rhode Island,Colorado,812.0
+Rhode Island,Connecticut,73.0
+Rhode Island,Florida,9972.0
+Rhode Island,Georgia,3001.0
+Rhode Island,Illinois,4249.0
+Rhode Island,Indiana,29.0
+Rhode Island,Kentucky,29.0
+Rhode Island,Louisiana,20.0
+Rhode Island,Maine,6.0
+Rhode Island,Maryland,7816.0
+Rhode Island,Massachusetts,217.0
+Rhode Island,Michigan,2050.0
+Rhode Island,Minnesota,431.0
+Rhode Island,Missouri,17.0
+Rhode Island,Nebraska,1.0
+Rhode Island,Nevada,1109.0
+Rhode Island,New Hampshire,16.0
+Rhode Island,New Jersey,1195.0
+Rhode Island,New York,103.0
+Rhode Island,North Carolina,5201.0
+Rhode Island,Ohio,867.0
+Rhode Island,Oklahoma,5.0
+Rhode Island,Pennsylvania,3256.0
+Rhode Island,Tennessee,59.0
+Rhode Island,Texas,72.0
+Rhode Island,Utah,7.0
+Rhode Island,Vermont,5.0
+Rhode Island,Virginia,3710.0
+Rhode Island,Washington,1.0
+Rhode Island,Wisconsin,1.0
+South Carolina,Alabama,6.0
+South Carolina,Arizona,7.0
+South Carolina,Arkansas,1.0
+South Carolina,California,84.0
+South Carolina,Colorado,244.0
+South Carolina,Connecticut,41.0
+South Carolina,Florida,3369.0
+South Carolina,Georgia,19094.0
+South Carolina,Illinois,6684.0
+South Carolina,Indiana,12.0
+South Carolina,Iowa,2.0
+South Carolina,Kentucky,233.0
+South Carolina,Louisiana,37.0
+South Carolina,Maine,25.0
+South Carolina,Maryland,4067.0
+South Carolina,Massachusetts,1056.0
+South Carolina,Michigan,2719.0
+South Carolina,Minnesota,16.0
+South Carolina,Mississippi,4.0
+South Carolina,Missouri,1.0
+South Carolina,Nevada,244.0
+South Carolina,New Hampshire,6.0
+South Carolina,New Jersey,3163.0
+South Carolina,New York,4974.0
+South Carolina,North Carolina,17954.0
+South Carolina,North Dakota,1.0
+South Carolina,Ohio,240.0
+South Carolina,Oklahoma,1.0
+South Carolina,Pennsylvania,3167.0
+South Carolina,Rhode Island,28.0
+South Carolina,South Carolina,342.0
+South Carolina,Tennessee,1600.0
+South Carolina,Texas,6529.0
+South Carolina,Utah,4.0
+South Carolina,Vermont,4.0
+South Carolina,Virginia,6620.0
+South Carolina,Washington,26.0
+South Carolina,West Virginia,113.0
+South Carolina,Wisconsin,2.0
+South Dakota,Arizona,789.0
+South Dakota,Arkansas,1.0
+South Dakota,California,5.0
+South Dakota,Colorado,4584.0
+South Dakota,Florida,133.0
+South Dakota,Georgia,216.0
+South Dakota,Idaho,2.0
+South Dakota,Illinois,2499.0
+South Dakota,Indiana,1.0
+South Dakota,Iowa,14.0
+South Dakota,Maine,1.0
+South Dakota,Maryland,1.0
+South Dakota,Michigan,168.0
+South Dakota,Minnesota,5156.0
+South Dakota,Missouri,1.0
+South Dakota,Montana,6.0
+South Dakota,Nebraska,22.0
+South Dakota,Nevada,955.0
+South Dakota,New Mexico,3.0
+South Dakota,New York,1.0
+South Dakota,North Carolina,2.0
+South Dakota,North Dakota,15.0
+South Dakota,Ohio,1.0
+South Dakota,Oklahoma,1.0
+South Dakota,Oregon,2.0
+South Dakota,Pennsylvania,2.0
+South Dakota,South Dakota,39.0
+South Dakota,Tennessee,8.0
+South Dakota,Texas,1096.0
+South Dakota,Utah,443.0
+South Dakota,Washington,10.0
+South Dakota,Wyoming,14.0
+Tennessee,Alabama,1233.0
+Tennessee,Arizona,2492.0
+Tennessee,Arkansas,1178.0
+Tennessee,California,8029.0
+Tennessee,Colorado,7860.0
+Tennessee,Connecticut,138.0
+Tennessee,Florida,22620.0
+Tennessee,Georgia,28846.0
+Tennessee,Idaho,6.0
+Tennessee,Illinois,15597.0
+Tennessee,Indiana,935.0
+Tennessee,Iowa,385.0
+Tennessee,Kansas,1.0
+Tennessee,Kentucky,2325.0
+Tennessee,Louisiana,4344.0
+Tennessee,Maine,1.0
+Tennessee,Maryland,5068.0
+Tennessee,Massachusetts,2001.0
+Tennessee,Michigan,8589.0
+Tennessee,Minnesota,4236.0
+Tennessee,Mississippi,894.0
+Tennessee,Missouri,6673.0
+Tennessee,Nebraska,534.0
+Tennessee,Nevada,4961.0
+Tennessee,New Hampshire,64.0
+Tennessee,New Jersey,2188.0
+Tennessee,New Mexico,73.0
+Tennessee,New York,6271.0
+Tennessee,North Carolina,21298.0
+Tennessee,North Dakota,2.0
+Tennessee,Ohio,4484.0
+Tennessee,Oklahoma,1053.0
+Tennessee,Oregon,3.0
+Tennessee,Pennsylvania,5786.0
+Tennessee,Rhode Island,63.0
+Tennessee,South Carolina,1598.0
+Tennessee,South Dakota,2.0
+Tennessee,Tennessee,4147.0
+Tennessee,Texas,26520.0
+Tennessee,Utah,2650.0
+Tennessee,Vermont,1.0
+Tennessee,Virginia,8229.0
+Tennessee,Washington,123.0
+Tennessee,West Virginia,7.0
+Tennessee,Wisconsin,627.0
+Tennessee,Wyoming,1.0
+Texas,Alabama,12655.0
+Texas,Alaska,440.0
+Texas,Arizona,58030.0
+Texas,Arkansas,15589.0
+Texas,California,159018.0
+Texas,Colorado,64295.0
+Texas,Connecticut,3594.0
+Texas,Florida,99443.0
+Texas,Georgia,68037.0
+Texas,Hawaii,7045.0
+Texas,Idaho,123.0
+Texas,Illinois,57200.0
+Texas,Indiana,9328.0
+Texas,Iowa,5066.0
+Texas,Kansas,6228.0
+Texas,Kentucky,9238.0
+Texas,Louisiana,44552.0
+Texas,Maine,2.0
+Texas,Maryland,20397.0
+Texas,Massachusetts,17471.0
+Texas,Michigan,17448.0
+Texas,Minnesota,15333.0
+Texas,Mississippi,8493.0
+Texas,Missouri,40289.0
+Texas,Montana,21.0
+Texas,Nebraska,6495.0
+Texas,Nevada,46505.0
+Texas,New Hampshire,41.0
+Texas,New Jersey,21801.0
+Texas,New Mexico,19450.0
+Texas,New York,32856.0
+Texas,North Carolina,39653.0
+Texas,North Dakota,3.0
+Texas,Ohio,16910.0
+Texas,Oklahoma,32270.0
+Texas,Oregon,8821.0
+Texas,Pennsylvania,28631.0
+Texas,Puerto Rico,3805.0
+Texas,Rhode Island,69.0
+Texas,South Carolina,6605.0
+Texas,South Dakota,1100.0
+Texas,Tennessee,26435.0
+Texas,Texas,369649.0
+Texas,Utah,12707.0
+Texas,Vermont,1.0
+Texas,Virginia,32448.0
+Texas,Washington,20534.0
+Texas,West Virginia,381.0
+Texas,Wisconsin,5576.0
+Texas,Wyoming,287.0
+U.S. Pacific Trust Territories and Possessions,Hawaii,1722.0
+U.S. Pacific Trust Territories and Possessions,Illinois,107.0
+U.S. Pacific Trust Territories and Possessions,Missouri,1.0
+U.S. Pacific Trust Territories and Possessions,U.S. Pacific Trust Territories and Possessions,447.0
+U.S. Virgin Islands,California,2.0
+U.S. Virgin Islands,Colorado,2.0
+U.S. Virgin Islands,Florida,5879.0
+U.S. Virgin Islands,Georgia,1704.0
+U.S. Virgin Islands,Illinois,108.0
+U.S. Virgin Islands,Massachusetts,479.0
+U.S. Virgin Islands,Minnesota,24.0
+U.S. Virgin Islands,Nevada,2.0
+U.S. Virgin Islands,New Jersey,406.0
+U.S. Virgin Islands,New York,1005.0
+U.S. Virgin Islands,North Carolina,1524.0
+U.S. Virgin Islands,Pennsylvania,617.0
+U.S. Virgin Islands,Puerto Rico,3785.0
+U.S. Virgin Islands,Texas,4.0
+U.S. Virgin Islands,U.S. Virgin Islands,190.0
+U.S. Virgin Islands,Virginia,168.0
+Utah,Alaska,681.0
+Utah,Arizona,15364.0
+Utah,Arkansas,1.0
+Utah,California,45971.0
+Utah,Colorado,19058.0
+Utah,Connecticut,36.0
+Utah,Florida,2927.0
+Utah,Georgia,10920.0
+Utah,Hawaii,2044.0
+Utah,Idaho,7074.0
+Utah,Illinois,6306.0
+Utah,Indiana,1014.0
+Utah,Iowa,10.0
+Utah,Kansas,5.0
+Utah,Kentucky,2280.0
+Utah,Louisiana,1009.0
+Utah,Maryland,2771.0
+Utah,Massachusetts,1627.0
+Utah,Michigan,4742.0
+Utah,Minnesota,5449.0
+Utah,Missouri,3578.0
+Utah,Montana,8004.0
+Utah,Nebraska,1099.0
+Utah,Nevada,13704.0
+Utah,New Hampshire,1.0
+Utah,New Jersey,1149.0
+Utah,New Mexico,1703.0
+Utah,New York,5660.0
+Utah,North Carolina,1909.0
+Utah,North Dakota,446.0
+Utah,Ohio,6.0
+Utah,Oklahoma,1487.0
+Utah,Oregon,8962.0
+Utah,Pennsylvania,1479.0
+Utah,Rhode Island,7.0
+Utah,South Carolina,1.0
+Utah,South Dakota,433.0
+Utah,Tennessee,2975.0
+Utah,Texas,12669.0
+Utah,Utah,1708.0
+Utah,Virginia,2807.0
+Utah,Washington,13251.0
+Utah,Wisconsin,5.0
+Utah,Wyoming,2170.0
+Vermont,Connecticut,10.0
+Vermont,Florida,442.0
+Vermont,Georgia,25.0
+Vermont,Idaho,2.0
+Vermont,Illinois,1711.0
+Vermont,Indiana,1.0
+Vermont,Kentucky,2.0
+Vermont,Louisiana,10.0
+Vermont,Maine,16.0
+Vermont,Massachusetts,108.0
+Vermont,Michigan,1255.0
+Vermont,Minnesota,3.0
+Vermont,Missouri,9.0
+Vermont,New Hampshire,19.0
+Vermont,New Jersey,1285.0
+Vermont,New York,4131.0
+Vermont,North Carolina,1.0
+Vermont,Ohio,352.0
+Vermont,Pennsylvania,2309.0
+Vermont,Rhode Island,7.0
+Vermont,Tennessee,3.0
+Vermont,Texas,4.0
+Vermont,Vermont,2.0
+Vermont,Virginia,2641.0
+Virginia,Alabama,2332.0
+Virginia,Alaska,4.0
+Virginia,Arizona,5001.0
+Virginia,Arkansas,994.0
+Virginia,California,39972.0
+Virginia,Colorado,17450.0
+Virginia,Connecticut,4557.0
+Virginia,Florida,53130.0
+Virginia,Georgia,52248.0
+Virginia,Hawaii,1443.0
+Virginia,Idaho,17.0
+Virginia,Illinois,37513.0
+Virginia,Indiana,4303.0
+Virginia,Iowa,839.0
+Virginia,Kansas,1.0
+Virginia,Kentucky,4821.0
+Virginia,Louisiana,3511.0
+Virginia,Maine,3685.0
+Virginia,Maryland,4370.0
+Virginia,Massachusetts,26181.0
+Virginia,Michigan,11810.0
+Virginia,Minnesota,8872.0
+Virginia,Mississippi,435.0
+Virginia,Missouri,8395.0
+Virginia,Montana,15.0
+Virginia,Nebraska,1710.0
+Virginia,Nevada,3521.0
+Virginia,New Hampshire,1860.0
+Virginia,New Jersey,4995.0
+Virginia,New Mexico,864.0
+Virginia,New York,36631.0
+Virginia,North Carolina,41140.0
+Virginia,North Dakota,1.0
+Virginia,Ohio,9486.0
+Virginia,Oklahoma,565.0
+Virginia,Oregon,2621.0
+Virginia,Pennsylvania,16205.0
+Virginia,Puerto Rico,2265.0
+Virginia,Rhode Island,3684.0
+Virginia,South Carolina,6696.0
+Virginia,South Dakota,2.0
+Virginia,Tennessee,8467.0
+Virginia,Texas,32418.0
+Virginia,U.S. Virgin Islands,158.0
+Virginia,Utah,2837.0
+Virginia,Vermont,2731.0
+Virginia,Virginia,15872.0
+Virginia,Washington,5995.0
+Virginia,West Virginia,1374.0
+Virginia,Wisconsin,3222.0
+Virginia,Wyoming,1.0
+Washington,Alabama,14.0
+Washington,Alaska,21812.0
+Washington,Arizona,19011.0
+Washington,California,87742.0
+Washington,Colorado,25806.0
+Washington,Connecticut,19.0
+Washington,Florida,3774.0
+Washington,Georgia,9432.0
+Washington,Hawaii,15694.0
+Washington,Idaho,6635.0
+Washington,Illinois,16839.0
+Washington,Indiana,5.0
+Washington,Iowa,9.0
+Washington,Kentucky,669.0
+Washington,Louisiana,75.0
+Washington,Maryland,367.0
+Washington,Massachusetts,2936.0
+Washington,Michigan,4521.0
+Washington,Minnesota,13866.0
+Washington,Missouri,4309.0
+Washington,Montana,5801.0
+Washington,Nebraska,65.0
+Washington,Nevada,20957.0
+Washington,New Jersey,5452.0
+Washington,New Mexico,1013.0
+Washington,New York,5717.0
+Washington,North Carolina,2882.0
+Washington,North Dakota,1.0
+Washington,Ohio,314.0
+Washington,Oklahoma,44.0
+Washington,Oregon,20284.0
+Washington,Pennsylvania,3716.0
+Washington,Rhode Island,1.0
+Washington,South Carolina,44.0
+Washington,Tennessee,197.0
+Washington,Texas,20491.0
+Washington,Utah,13370.0
+Washington,Virginia,6061.0
+Washington,Washington,39885.0
+Washington,Wisconsin,630.0
+Washington,Wyoming,2.0
+West Virginia,Florida,976.0
+West Virginia,Georgia,1685.0
+West Virginia,Illinois,501.0
+West Virginia,Indiana,2.0
+West Virginia,Kentucky,13.0
+West Virginia,Maryland,2.0
+West Virginia,Michigan,453.0
+West Virginia,Missouri,1.0
+West Virginia,Nebraska,1.0
+West Virginia,New York,216.0
+West Virginia,North Carolina,2569.0
+West Virginia,Ohio,189.0
+West Virginia,Pennsylvania,25.0
+West Virginia,South Carolina,110.0
+West Virginia,Tennessee,4.0
+West Virginia,Texas,313.0
+West Virginia,Virginia,1546.0
+West Virginia,West Virginia,39.0
+West Virginia,Wisconsin,3.0
+Wisconsin,Alabama,4.0
+Wisconsin,Arizona,5149.0
+Wisconsin,California,2743.0
+Wisconsin,Colorado,9480.0
+Wisconsin,Connecticut,9.0
+Wisconsin,Florida,8061.0
+Wisconsin,Georgia,12368.0
+Wisconsin,Idaho,7.0
+Wisconsin,Illinois,16113.0
+Wisconsin,Indiana,16.0
+Wisconsin,Iowa,11.0
+Wisconsin,Kansas,1.0
+Wisconsin,Kentucky,1173.0
+Wisconsin,Louisiana,12.0
+Wisconsin,Maine,2.0
+Wisconsin,Maryland,2793.0
+Wisconsin,Massachusetts,2156.0
+Wisconsin,Michigan,11185.0
+Wisconsin,Minnesota,15984.0
+Wisconsin,Missouri,2933.0
+Wisconsin,Montana,1.0
+Wisconsin,Nebraska,4.0
+Wisconsin,Nevada,3867.0
+Wisconsin,New Hampshire,3.0
+Wisconsin,New Jersey,1253.0
+Wisconsin,New Mexico,11.0
+Wisconsin,New York,5327.0
+Wisconsin,North Carolina,1524.0
+Wisconsin,North Dakota,3.0
+Wisconsin,Ohio,2275.0
+Wisconsin,Oklahoma,28.0
+Wisconsin,Oregon,12.0
+Wisconsin,Pennsylvania,1554.0
+Wisconsin,South Dakota,1.0
+Wisconsin,Tennessee,584.0
+Wisconsin,Texas,5179.0
+Wisconsin,Utah,25.0
+Wisconsin,Virginia,3268.0
+Wisconsin,Washington,773.0
+Wisconsin,Wisconsin,706.0
+Wisconsin,Wyoming,1.0
+Wyoming,Arizona,72.0
+Wyoming,California,181.0
+Wyoming,Colorado,4912.0
+Wyoming,Georgia,196.0
+Wyoming,Idaho,9.0
+Wyoming,Illinois,209.0
+Wyoming,Indiana,1.0
+Wyoming,Maryland,1.0
+Wyoming,Minnesota,121.0
+Wyoming,Montana,19.0
+Wyoming,Nebraska,1.0
+Wyoming,Nevada,248.0
+Wyoming,New Jersey,107.0
+Wyoming,New Mexico,1.0
+Wyoming,New York,2.0
+Wyoming,Pennsylvania,3.0
+Wyoming,South Dakota,7.0
+Wyoming,Texas,281.0
+Wyoming,Utah,2035.0
+Wyoming,Virginia,2.0
+Wyoming,Washington,1.0
+Wyoming,Wyoming,47.0
