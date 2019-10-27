@@ -5,7 +5,7 @@ Course project for *Networks Analysis and Modeling (CSCI 5352)*
 This project aims to the study the network air travel and its effect on the spread of influenza and pnemonia.
 
 ### Collaborators
-- Ksenia Lepihkina
+- Ksenia Lepikhina
 - Aparajithan Venkateswaran
 - Josh Mellin
 
