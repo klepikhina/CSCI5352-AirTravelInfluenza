@@ -20,8 +20,12 @@ for k = 1:length(A)
         %now each person that was sick tries to infect people in col state
         for i = 1:num_sims
             num_healthy = pop(j) - infected(j); %number of healthy people
-            infected(j) = infected(j) + binornd(num_healthy, ps);
+            infected(j) = infected(j) + binornd(floor(num_healthy*.1), ps);
         end
+        
+        %and then add in some random people that get sick not from
+        %travelers
+        infected(j) = infected(j) + binornd(floor(pop(j)-infected(j)*.1), 0.001);
     end
 end
 
