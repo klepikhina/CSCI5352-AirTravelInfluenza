@@ -4,7 +4,7 @@ import pandas as pd
 verbose = True
 
 dir_path = "../Data/Raw/Airline/" # This directory no longer exists
-out_path = "../Data/Raw/Airline"
+out_path = "../Data/Clean/Airline/"
 
 raw_files = [fname for fname in os.listdir(dir_path) if not os.path.isdir(dir_path + fname)]
 if verbose:
