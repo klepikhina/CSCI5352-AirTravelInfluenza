@@ -24,8 +24,8 @@ for k = 1:length(A)
         end
         
         %and then add in some random people that get sick not from
-        %travelers
-        infected(j) = infected(j) + binornd(floor(pop(j)-infected(j)*.1), 0.001);
+        %travelers.  Comment this out for the spreading centrality
+        %infected(j) = infected(j) + binornd(floor(pop(j)-infected(j)*.1), 0.001);
     end
 end
 
