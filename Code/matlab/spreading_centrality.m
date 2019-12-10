@@ -23,9 +23,16 @@ death_data = [state_deaths death_data];
 starting_year = 2009;
 starting_quarter = 4;
 
+%clean the death data for some reason
+for k = 1:length(death_data)
+    if(isnan(death_data(k,2)))
+        death_data(k,2) = 0;
+    end
+end
+
 %set our probability of spreading infection and recovery
-ps = (3)/10000;
-pr = 0.2;
+ps = 0.097138;
+pr = 0.9301301;
 
 %Now run through as many times as we have networks
 files = dir('../../Data/Clean');
@@ -38,7 +45,7 @@ for states = 1:50
     year = starting_year;
     scale = 100; %number to divide population numbers by
     infected(1,:) = initial_seed_spreading(death_data, pop_data, year, starting_quarter, states);
-    for k = 4:length(files)-3 %don't read 2019, we don't have pop data
+    for k = 4:length(files)-5 %don't read 2019, we don't have pop data
         year = year+0.25;
         fname = strcat(files(k).folder, '/', files(k).name);
         A = create_A(fname);
@@ -54,7 +61,7 @@ for states = 1:50
     %now store the centrality score for that state
     final_infected = zeros(1,50);
     for k = 1:length(results)
-        final_infected = final_infected + results(k).infected(end,:);
+        final_infected = final_infected + sum(results(k).infected);
     end
     final_infected = final_infected / N;
     centrality(states) = sum(final_infected .* pop_data(2:end,end)');
@@ -62,6 +69,8 @@ for states = 1:50
 end
 toc
 
+%get the number of deaths, not just infected
+centrality = centrality / 1000;
 
 %% plot centrality scores
 x = 1:50;
@@ -71,6 +80,20 @@ title('Centrality of Each State');
 xlabel('State Number');
 ylabel('Number of Deaths in 2019');
 
+%write the results
+ref = {'Alabama' 'Alaska' 'Arizona' 'Arkansas' 'California' 'Colorado' 'Connecticut' 'Delaware' ... 
+        'Florida' 'Georgia' 'Hawaii' 'Idaho' 'Illinois' 'Indiana' 'Iowa' 'Kansas' ... 
+        'Kentucky' 'Louisiana' 'Maine' 'Maryland' 'Massachusetts' 'Michigan' 'Minnesota' ... 
+        'Mississippi' 'Missouri' 'Montana' 'Nebraska' 'Nevada' 'New Hampshire' ... 
+        'New Jersey' 'New Mexico' 'New York' 'North Carolina' 'North Dakota' 'Ohio' ... 
+        'Oklahoma' 'Oregon' 'Pennsylvania' 'Rhode Island' 'South Carolina' 'South Dakota' ...
+        'Tennessee' 'Texas' 'Utah' 'Vermont' 'Virginia' 'Washington' 'West Virginia' ...
+        'Wisconsin' 'Wyoming'};
+ref = string(ref);
+x = string(x);
+
+fout = 'spreading_results.csv';
+xlswrite(fout, [ref' x' centrality']);
 
 
 
