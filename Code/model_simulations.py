@@ -141,9 +141,9 @@ def run_full_simulation(x, A_dict, all_population, years, sim_quarter=-1, touch_
             states = travel_and_infect_kernel(A_dict[year][quarter], states, p_transfer, touch_fraction=touch_fraction)
             states = recover_kernel(states, SIR)
             
-            for i in range(8):
-                states = local_infection_kernel(states, p_transfer)
-                states = recover_kernel(states, SIR)
+            # for i in range(8):
+            #     states = local_infection_kernel(states, p_transfer)
+            #     states = recover_kernel(states, SIR)
             
             states, dead_peeps = remove_deceased_kernel(states)
             num_deceased[year][quarter] = dead_peeps
